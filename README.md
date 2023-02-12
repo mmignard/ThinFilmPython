@@ -10,19 +10,19 @@ Here are some examples produced with this code:
 
 Air to glass reflections. Compare to the examples of Fresnel equation shown on [https://en.wikipedia.org/wiki/Fresnel_equations]()
 
-[<img src="./media/Air2Glass.svg" width="300">]()
+[<img src="./media/Air2Glass.svg" width="500">]()
 
 The reflected color of titanium depends on the thickness of the oxide layer formed on the titanium. This property is exploited to make colorful jewelry and art.
 
-[<img src="./media/TiOx_color.svg" width="300">]()
+[<img src="./media/TiOx_color.svg" width="500">]()
 
 The imod was a reflective display based on thin film interference that was developed the company Iridigm, later acquired by Qualcomm, but it was not a commercial success. The color of pixels in this display could by changed by varying the thickness of the airgap in the optical thin film stack. The spectra from some selected airgaps is shown here:
 
-[<img src="./media/imodSpectrum.svg" width="300">]()
+[<img src="./media/imodSpectrum.svg" width="500">]()
 
 The colors of the imod display are shown here over a wider range of airgap thicknesses:
 
-[<img src="./media/imodColors.svg" width="300">]()
+[<img src="./media/imodColors.svg" width="500">]()
 
 ## Links
 
